@@ -1,0 +1,15 @@
+@media all and (max-width: 992px) {
+     figure {
+        width: 45%;  
+    }
+}
+@media all and (max-width: 768px) {
+     figure {
+        width: 90%;   
+    }
+}
+@media all and (max-width: 480px) {
+     figure {
+        width: 100%;
+    }
+}
